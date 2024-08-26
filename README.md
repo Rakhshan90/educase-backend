@@ -20,13 +20,13 @@ This repository contains a Node.js project that implements a School Management A
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Rakhshan90/educase-backend.git
 ```
 ### 2. Navigate to the Project Directory
 Change into the project directory:
 
 ```bash
-cd your-repo-name
+cd educase-backend
 ```
 
 ### 3. Install Dependencies
@@ -39,20 +39,18 @@ npm install
 ## Usage
 
 ### 1. Start the Server
-You can start the server by running:
+You can choose any of three commands to start the server locally:
 
 ```bash
 node index.js
+
+npm run start
+
+npm run server
 ```
 
 ### 2. Access the API
 Once the server is running, you can access the API at http://localhost:3000 (or the port specified in your project).
-
-Or you can use live url to access the API
-
-```bash
-Live URL: 
-```
 
 ## API Endpoints
 
